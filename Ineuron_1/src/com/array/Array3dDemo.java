@@ -3,7 +3,7 @@ import java.util.*;
 
 public class Array3dDemo {
 public static void main(String[] args) {
-	
+		//school,class,student.
 		
 		int arr[][][]= new int[3][2][3];
 		Scanner scan = new Scanner(System.in);
