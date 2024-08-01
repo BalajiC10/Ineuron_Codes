@@ -3,8 +3,8 @@ package com.string;
 public class StringA {
 public static void main(String[] args) {
 	
-		String str ="Alien";//SCP
-		String str1 = "alien"; //SCP
+		String str ="Alien";//SCP+Heap (JVM keeps one copy)
+		String str1 = "alien"; //SCP+Heap
 		String str3 = new String("Alien"); //Heap memory
 		System.out.println(str==str1); //Both SCP but diff value so False
 		

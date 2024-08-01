@@ -1,6 +1,6 @@
 package com.mutableString;
 
-public class Methods {
+public class CapacityMethods {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

@@ -18,7 +18,7 @@ public class toChangeCases {
 		System.out.println(str+" to UpperCase");
 		System.out.println(ans);
 		
-		String sb ="SACHIN";
+		String sb ="INEURON";
 		
 		String ans1="";
 		
