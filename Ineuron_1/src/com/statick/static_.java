@@ -1,4 +1,4 @@
-package com.staic;
+package com.statick;
 
 public class static_ {
 	static int a,b,c;

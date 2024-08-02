@@ -1,9 +1,11 @@
-package com.staic;
+package com.statick;
 
 public class Static_Non_Static {
 
 	int a,b,c;
 	static int m,n,l;
+	
+	//flow -> static variable->static block ->main method->static method->non static block->constructor->non static method
 	
 	{
 		System.out.println("non static block");

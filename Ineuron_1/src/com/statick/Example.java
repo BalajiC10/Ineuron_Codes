@@ -1,4 +1,4 @@
-package com.staic;
+package com.statick;
 import java.util.*;
 
 public class Example {
@@ -8,7 +8,7 @@ public class Example {
 	private float si;
 	
 	private static float fi=2.5f;//it will store in class only once
-	
+	//we can initilize static variable where object will be common among the all object.
 	
 	
 	public void acceptInput() {
