@@ -1,4 +1,4 @@
-package GuesserGame;
+package com.game;
 import java.util.*;
 //Console base application.
 //There will be three properties for this game : Players:3, Guesser:1, Umpire:1

@@ -3,7 +3,7 @@ package com.inherit;
 class X extends Object{
 	
 	public X() {
-		super() ; //it will be there on every const hidden
+		//super() ; //it will be there on every const hidden
 		System.out.println("In X-Constructor");
 	}
 	
