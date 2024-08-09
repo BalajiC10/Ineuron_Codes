@@ -1,6 +1,6 @@
 package com.statick;
 
-public class Static_Non_Static {
+public class StaticMembersFlow {
 
 	int a,b,c;
 	static int m,n,l;
@@ -15,7 +15,7 @@ public class Static_Non_Static {
 		m=500;
 		
 	}
-	Static_Non_Static(){
+	StaticMembersFlow(){
 		//before executing constructor jvm will load the data here of non static block and execute them before const
 		System.out.println("constructor");
 	}
@@ -51,10 +51,10 @@ public class Static_Non_Static {
 	
 	public static void main(String[] args) {
 		System.out.println("main method");
-		Static_Non_Static.displ();
+		StaticMembersFlow.displ();
 		System.out.println();
 		
-		Static_Non_Static en = new Static_Non_Static();
+		StaticMembersFlow en = new StaticMembersFlow();
 		en.disp();
 		
 	}

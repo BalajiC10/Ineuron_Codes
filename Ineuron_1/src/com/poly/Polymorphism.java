@@ -53,6 +53,7 @@ class FighterPlane extends Plane1{
 		
 	}
 	
+	
 }
 
 class Airport{
@@ -75,7 +76,7 @@ public class Polymorphism {
 		CargoPlane cp = new CargoPlane();
 		cp.fly();
 		cp.takeOff();
-		System.out.println("this needs so much time by creating object of every class and calling methods");
+		System.out.println("This needs so much time by creating object of every class and calling methods");
 		PassengerPlane pp = new PassengerPlane();
 		pp.fly();
 		pp.takeOff();
@@ -87,4 +88,6 @@ public class Polymorphism {
 		ap.permit(pp);
 		
 	}
+	
+	
 }

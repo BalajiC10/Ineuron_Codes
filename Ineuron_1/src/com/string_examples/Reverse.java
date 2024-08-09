@@ -9,11 +9,9 @@ public static void main(String[] args) {
 	String ar[] = s.split(" ");
 	System.out.println("Original :"+s);
 	
-	for(int i=ar.length-1;i>=0;i--) {
-		
+	for(int i=ar.length-1;i>=0;i--) {	
 		a=a+ar[i]+" ";
-		
-		
+
 	}
 	System.out.println("Reverse :"+a);
 }

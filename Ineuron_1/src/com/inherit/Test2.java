@@ -18,11 +18,11 @@ class B1 extends A1{
 		System.out.println("Const 2");
 	}
 	
-	int show() {
+	int displ() {
 		
 		System.out.println("B");
 		
-		return a;
+		return 10;
 	}
 }
 

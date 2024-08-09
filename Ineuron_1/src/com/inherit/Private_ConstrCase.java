@@ -23,7 +23,7 @@ class Ch extends P{
 
 public class Private_ConstrCase {
 public static void main(String[] args) {
-	P obj = new Ch();
+	Ch obj = new Ch();
 	System.out.println(obj.age);
 	
 	

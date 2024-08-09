@@ -4,7 +4,7 @@ public class MemoryAllocation {
 	//static members will get stored in heap memory only once and can use in all objects which will be created in class.
 	//static members belongs to class so that it saves memory by storing only once and increases perform of appl
 	
-	 
+	static int p=10;  //1st this then followed by all
 	int a,b,c;        // 4.it will initilize 0 values to this instance variables with respect to object.
 	static int x,y,z; // 1.first of all static variable will get allocated in heap memory.
 	
