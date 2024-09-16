@@ -1,7 +1,7 @@
 package com.Exception;
 
 public class CheckedException {
-public static void main(String[] args) throws Exception  { //Ducling the Exception
+public static void main(String[] args) throws Exception  { //Duckng the Exception
 	
 		System.out.println("first line");
 		
@@ -9,6 +9,6 @@ public static void main(String[] args) throws Exception  { //Ducling the Excepti
 		
 		System.out.println("last line");
 		
-		System.out.println("throws: worjing with checked exception");
+		System.out.println("throws: working with checked exception");
 }
 }

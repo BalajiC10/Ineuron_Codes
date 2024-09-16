@@ -8,6 +8,11 @@ public static void main(String[] args) {
 		 */
 	
 		int arr[] = {3,4,1,2,1,4};
+		//               l   r   
+		//prefix ={3,7,8,10,11,15};
+		      //   0 1 2 3   4  5 
+		//7-1
+		//p[r] - p[l-1] =8
 		int l=2,r=5;
 		
 		int sum=0;

@@ -1,4 +1,4 @@
-package in.hashing;
+  package in.hashing;
 
 import java.util.Scanner;
 
@@ -8,6 +8,7 @@ public static void main(String[] args) {
 		
 		Scanner scan = new Scanner(System.in);
 		//System.out.println("Enter size of an Array: ");
+		
 		int n = 5;
 		
 		int arr[] = {1,2,4,3,3};
