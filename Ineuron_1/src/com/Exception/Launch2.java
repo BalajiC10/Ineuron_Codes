@@ -28,7 +28,7 @@ public static void main(String[] args) {
 			System.out.println("Give Input within array size");
 		}
 		
-		catch(Exception e) {
+		catch( Exception e) {
 			System.out.println("Should Keep Exception catch block in end..");
 			System.out.println("Give Proper Input..");
 			

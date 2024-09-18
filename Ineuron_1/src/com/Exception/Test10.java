@@ -5,7 +5,6 @@ class Test2{
 	public void show1() {
 		
 		try {
-			
 			int res =10/0;
 			System.out.println(res);
 			System.out.println("try block");

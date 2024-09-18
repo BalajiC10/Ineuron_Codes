@@ -45,7 +45,7 @@ public static void main(String[] args) {
 	
 		try {
 			Test1 t = new Test1();
-			t.division();
+			t.division(); 
 			
 		}
 		catch(Exception e) {

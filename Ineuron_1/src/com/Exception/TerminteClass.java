@@ -4,7 +4,6 @@ class Beta10{
 	void show() {
 		
 		try {
-			
 			System.out.println("Inside the show method");
 			System.exit(0); //System exit will dominate Finally Block
 		}

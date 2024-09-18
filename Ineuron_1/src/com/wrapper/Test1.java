@@ -4,7 +4,7 @@ public class Test1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//Wrapper Class -
 		Integer i = new Integer(10);
 		System.out.println(i);
 		

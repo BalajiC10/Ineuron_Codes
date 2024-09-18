@@ -5,7 +5,7 @@ public static void main(String[] args) throws Exception  { //Duckng the Exceptio
 	
 		System.out.println("first line");
 		
-		Thread.sleep(5000); //If remove exception (Ducking) this will throw compile time exception.
+		Thread.sleep(5000); //If remove exception (Ducking) this will throw compile time exception (checked Exception).
 		
 		System.out.println("last line");
 		
