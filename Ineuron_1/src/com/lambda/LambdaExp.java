@@ -16,7 +16,7 @@ public static void main(String[] args) {
 //		};
 //		a.show();
 	
-		//Here we are not mentioning which method to implements so we useed functional interface.
+		//Here we are not mentioning which method to implements so we used functional interface.
 		Alpha a = () -> System.out.println("Labda Expression used to implement Funtional Interface");
 		a.show();
 }

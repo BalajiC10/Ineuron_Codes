@@ -1,6 +1,6 @@
 package com.wrapper;
 
-public class AutoBoxing1 {
+public class AutoUnBoxing {
 	
 	static Integer I =200; //AutoBoxing (valueOf())
 	public static void main(String[] args) {
