@@ -34,14 +34,13 @@ class Test1{
 			System.out.println("Thank you for using our Application");
 			
 		}
-		
-		
+
 	}
 	
 }
 
 public class Rethrowing_Exception {
-public static void main(String[] args) {
+public static void main(String[] args) throws Exception {
 	
 		try {
 			Test1 t = new Test1();
