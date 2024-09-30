@@ -6,7 +6,7 @@ class Booking implements Runnable{
 
 	int ticket = 2;
 	@Override
-    public void run() {
+    synchronized public void run() {
 
 		try {
 			System.out.println("Available Tickets: "+ticket);

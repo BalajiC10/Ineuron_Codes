@@ -1,6 +1,6 @@
 package in.binary_search;
 
-public class Algorithm {
+public class Session_1 {
 public static void main(String[] args) {
 				//   0 1 2 3 4 5 6	
 		int arr[] = {1,2,3,4,5,6,7};
